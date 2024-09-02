@@ -1,0 +1,16 @@
+
+
+#raw files
+data_raw:
+    file1: "../data/raw/df_final_demo.txt"
+    file2: "../data/raw/df_final_experiment_clients.txt"
+    file3: "../data/raw/df_final_web_data_pt_1.txt"
+    file4: "../data/raw/Wdf_final_web_data_pt_2.txt"
+
+#clean_files
+
+data_clean:
+    file1: "../data/clean/"
+    file2: "../data/clean/"
+    file3: "../data/clean/"
+    file4: "../data/clean/"
