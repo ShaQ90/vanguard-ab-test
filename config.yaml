@@ -10,7 +10,6 @@ data_raw:
 #clean_files
 
 data_clean:
-    file1: "../data/clean/"
-    file2: "../data/clean/"
-    file3: "../data/clean/"
-    file4: "../data/clean/"
+    user_data: "../data/clean/user_data.csv"
+    user_logs: "../data/clean/user_logs.csv"
+
